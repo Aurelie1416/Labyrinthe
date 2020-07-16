@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/jeu vid\xE9o/finish.unity"
+  isLoaded: 1
+  isActive: 1
