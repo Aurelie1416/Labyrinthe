@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 49a27075e1580a646811a988ecd4c1d3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - premiereChanson: {fileID: 8300000, guid: 83f95142dc9196745b22c87a9fa91896, type: 3}
+  - deuxiemeChanson: {fileID: 8300000, guid: 7bcdec468b5cc4041a36fec0bb3718a7, type: 3}
+  - troisiemeChanson: {fileID: 8300000, guid: 507aa0a33a511a044852d52564f685ff, type: 3}
+  - quatriemeChanson: {fileID: 8300000, guid: bc79f655c0983e3438ecb9ab32b4049f, type: 3}
+  - derniereChanson: {fileID: 8300000, guid: 915cdb53ee74f2d41a03ccb02517d333, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
